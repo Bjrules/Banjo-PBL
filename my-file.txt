@@ -1,1 +1,2 @@
 Hello Banjo, You can make it just persist
+Trust your self, you can be the devops guy
